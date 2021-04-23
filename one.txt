@@ -6,6 +6,6 @@ class Simple{
      System.out.println("Git Dude");  
      System.out.println("Cloud");  
       System.out.println("Version2");  
-      //someone review this
+      //someone review this code
     }  
 }  
